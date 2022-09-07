@@ -1,0 +1,1 @@
+aws cloudformation --profile UdacityTest delete-stack --stack-name $1
