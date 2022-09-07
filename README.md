@@ -35,3 +35,6 @@ Running the delete script, destroys your stack:
 ./delete.sh [Name your Stack [filename] [file name]
 
 ```
+
+## Expected Result
+![Deployed](Project_Screenshots/DeployedProject.png)
